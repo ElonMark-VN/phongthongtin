@@ -1,8 +1,8 @@
-"name": "my-threejs-vite-project", // Tên dự án (bắt buộc)
-  "version": "1.0.0", // Phiên bản dự án (bắt buộc)
+"name": "my-threejs-vite-project", 
+  "version": "1.0.0", 
   "scripts": {
-    "dev": "vite", // Script cho development
-    "build": "vite build" // Script cho build (BẮT BUỘC CHO VERCEL)
+    "dev": "vite", 
+    "build": "vite build" 
   },
   "dependencies": {
     "three": "^0.169.0",
