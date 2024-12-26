@@ -1,4 +1,16 @@
 {
+  "name": "threejs-cannon-example",
+  "description": "Three.js with Cannon.js example",
+  "main": "index.html",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "three": "^0.169.0",
     "cannon-es": "0.20.0"
@@ -6,5 +18,4 @@
   "devDependencies": {
     "vite": "^5.4.8"
   }
-
 }
